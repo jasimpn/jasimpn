@@ -10,5 +10,6 @@
 ## :rocket: My Projects
 
 * Computer vision
-    * [jasimpn/sword-ninja](https://github.com/jasimpn/sword-ninja) - Playing Fruitninja using real physical sword .
+    * [jasimpn/sword-ninja](https://github.com/jasimpn/sword-ninja) - Playing Fruitninja using real physical sword.
+
 ![](./profile-3d-contrib/profile-night-green.svg)
